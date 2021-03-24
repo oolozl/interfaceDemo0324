@@ -1,0 +1,3 @@
+include ':interfaceProgrmas'
+include ':app'
+rootProject.name = "interfaceDemo"
